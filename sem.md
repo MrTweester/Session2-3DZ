@@ -101,6 +101,12 @@ Markdown не является заменой HTML. Синтаксис Markdown 
 
 **git branch <название ветки>** – создать новую ветку
 
+## Домашнее задание 2-го семинара
 
+**[Справочник](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)** по Markdown от Microsoft.
+
+**git branch -d** <название ветки> – удалить ветку
+
+**git checkout -b <название ветки>** – создание и переход на новую ветку
 
 
