@@ -103,6 +103,9 @@ Markdown не является заменой HTML. Синтаксис Markdown 
 
 ## Домашнее задание 2-го семинара
 
+**[Справочник](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)** по Markdown от Microsoft.
+
+
 
 
 
