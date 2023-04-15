@@ -105,6 +105,7 @@ Markdown не является заменой HTML. Синтаксис Markdown 
 
 **[Справочник](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)** по Markdown от Microsoft.
 
+**git branch -d** <название ветки> – удалить ветку
 
 
 
